@@ -58,5 +58,6 @@ Using Power BI, advanced DAX measures, and interactive dashboards, the project s
 
 ##  Project Snapshot  
 
-<img width="1782" height="846" alt="image" src="https://github.com/user-attachments/assets/b959cb77-e0ed-45af-9285-601a8e0b2d81" />
+<img width="1411" height="852" alt="Screenshot 2025-09-01 133233" src="https://github.com/user-attachments/assets/e7780cf2-b0a4-428c-80da-ed0e5e3d6982" />
+
 
